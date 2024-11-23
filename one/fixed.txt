@@ -2,3 +2,4 @@ I have fixed the bugs.
 Fixed another bug.
 
 fourth bug fixed.
+Eight bug fixed for the great development of the machine learning project.
